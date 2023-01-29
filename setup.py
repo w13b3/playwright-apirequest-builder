@@ -47,7 +47,7 @@ URL = 'https://github.com/w13b3/playwright-apirequest-builder'
 EMAIL = 'wiebe at email dot com'  # prevent warning 'missing meta-data'
 AUTHOR = 'Wiebe'
 REQUIRES_PYTHON = '>=3.8.0, <4'
-VERSION = 'GIT'  # change this
+VERSION = '1.0.0'  # change this
 # If you do change the License, remember to change the Trove Classifier for that!
 LICENSE = "Mozilla Public License Version 2.0"
 
