@@ -1,0 +1,8 @@
+# requirements.txt
+# how to use:
+#   python3 -m pip install --upgrade pip
+#   python3 -m pip install -r requirements.txt
+
+# fetch parameter `max_redirects` was introduced in 1.26.0
+# Removing anything that uses `max_redirects` in ./playwright_request/_builder makes the code compatible with 1.17.0 and above.
+playwright>=1.26.0
